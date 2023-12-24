@@ -1,1 +1,2 @@
-# Image-to-Pencil-Sketch-App
+# sketchify
+A simple python app to convert colour image to pencil sketches.
